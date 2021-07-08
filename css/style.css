@@ -253,7 +253,7 @@ nav.scroled {
 @media (max-width: 767px) {
   .inside-text {
     margin-top: 20px;
-    font-size: 14px;
+    font-size: 18px;
   }
   .home .btn-primary,
   .btn i {
@@ -261,6 +261,9 @@ nav.scroled {
   }
   .home .btn i {
     margin-top: 2px;
+  }
+  .gb2 .inside-text p {
+    display: none;
   }
 }
 .gb img {
